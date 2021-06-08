@@ -16,17 +16,5 @@
 	    title : "Baby Shirt",
   	    content : "Born in France",
 	    price : 130000
-	},
-	{
-	    id : 6,
-	    title : "Flowey",
-  	    content : "only 5 inches",
-	    price : 120000
-	},
-	{
-	    id : 7,
-	    title : "Baby shirt",
-  	    content : "for less than 6",
-	    price : 120000
 	}
 ]
