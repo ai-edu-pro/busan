@@ -1,0 +1,12 @@
+ drop table tutorials;
+ 
+ CREATE TABLE  tutorials (
+ id INTEGER NOT NULL auto_increment , 
+ title VARCHAR(255), 
+ description VARCHAR(255),
+ published TINYINT(1), 
+ createdAt DATETIME NOT NULL, 
+ updatedAt DATETIME NOT NULL, PRIMARY KEY (id)) 
+  default character set utf8 collate utf8_general_ci;
+ 
+select * from tutorials;
