@@ -1,0 +1,20 @@
+[
+	{
+	    "id" : 6,
+	    "title" : "Flowey66",
+  	    "content" : "only 6 inches",
+	    "price" : 90000
+	},
+	{
+	    "id" : 7,
+	    "title" : "Baby shirt77",
+  	    "content" : "for less than 7",
+	    "price" : 150000
+	},
+	{
+	    "id" : 8,
+	    "title" : "Baby Shirt88",
+  	    "content" : "Born in France 8",
+	    "price" : 110000
+	}
+]
